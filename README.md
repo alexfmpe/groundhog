@@ -2,7 +2,7 @@
 
 PostgreSQL, MySQL, and SQLite with ultimate type safety.
 Advanced migration capabilities allow you to precisely specify the schema description, whether for an existing database, or
-creating a migration script for a new one. Groundhog is not opinionated about schema and can bind your datatypes to a almost any relational model. Schemas can include composite keys, references across multiple schemas, indexes, and more.
+creating a migration script for a new one. Groundhog is not opinionated about schema and can bind your datatypes to almost any relational model. Schemas can include composite keys, references across multiple schemas, indexes, and more.
 It is used in hobby projects and commercial applications.
 
 ## Docs
